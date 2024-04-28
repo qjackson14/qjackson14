@@ -6,7 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/qjackson14/osticket-prereqs)
   - [osTicket: Post-Installation Configuration & Ticket Lifecycle Examples](https://github.com/qjackson14/osticket-postinstall)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/qjackson14/adazure)
+  - [Virtual Machine Setup]
+   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/qjackson14/adazure)
   - [Inspecting Network Protocols](https://github.com/qjackson14/nsgs)
 
 <h2>🤳Connect with me:</h2>
