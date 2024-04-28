@@ -8,7 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Virtual Machine Setup](https://github.com/qjackson14/VMsetup)
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/qjackson14/adazure)
-  - [Configuring DNS Servers using Domain Controller](https://github.com/qjackson14/adazure)
+  - [Configuring DNS Servers using Domain Controller](https://github.com/qjackson14/dnsserver)
   - [Inspecting Network Protocols](https://github.com/qjackson14/nsgs)
 
 <h2>🤳Connect with me:</h2>
