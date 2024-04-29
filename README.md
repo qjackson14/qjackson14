@@ -11,6 +11,7 @@
   - [Configuring DNS Servers using Domain Controller](https://github.com/qjackson14/dnsserver)
   -  [Network Security Groups Admin & End Users](https://github.com/qjackson14/nsgs)
   - [Inspecting Network Protocols](https://github.com/qjackson14/nsgs)
+-  [Implementing Virtual Private Networks (VPN)](https://github.com/qjackson14/nsgs)
 
 <h2>🤳Connect with me:</h2>
 
