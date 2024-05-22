@@ -12,6 +12,8 @@
   -  [Network File Shares & Permissions](https://github.com/qjackson14/networkfileshares)
   - [Inspecting Network Protocols](https://github.com/qjackson14/networkprotocols)
   - [Implementing Virtual Private Networks (VPN)](https://github.com/qjackson14/vpns)
+- <b>Microsoft Windows</b>
+  - [Deploying SQL Server in Windows](https://github.com/qjackson14/sqlwindows)
 
 <h2>🤳Connect with me:</h2>
 
