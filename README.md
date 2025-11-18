@@ -14,7 +14,8 @@
   - [Implementing Virtual Private Networks (VPN)](https://github.com/qjackson14/vpns)
 - <b>Microsoft Windows</b>
   - [Deploying SQL Server in Windows](https://github.com/qjackson14/sqlwindows)
-
+- <b>CCNA Networking Labs</b>
+  - [Day 1 Lab: Network Diagram](https://github.com/qjackson14)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
