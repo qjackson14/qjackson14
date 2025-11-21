@@ -16,8 +16,8 @@
   - [Deploying SQL Server in Windows](https://github.com/qjackson14/sqlwindows)
 - <b>CCNA Networking Labs</b>
   - [Day 1 Lab: Network Diagram](https://github.com/qjackson14/networkdiagram)
-  - [Day 2 Lab: Connecting Device] (https://github.com/qjackson14/connectingdevices)
-  - [Day 3 Lab: OSI Model] (https://github.com/qjackson14/osimodel)
+  - [Day 2 Lab: Connecting Device](https://github.com/qjackson14/connectingdevices)
+  - [Day 3 Lab: OSI Model](https://github.com/qjackson14/osimodel)
   - [Day 4 Lab: Basic Device Security](https://github.com/qjackson14/basicdevicesecurity)
 
 
