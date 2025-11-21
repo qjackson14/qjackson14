@@ -19,7 +19,7 @@
   - [Day 2 Lab: Connecting Device](https://github.com/qjackson14/connectingdevices)
   - [Day 3 Lab: OSI Model](https://github.com/qjackson14/osimodel)
   - [Day 4 Lab: Basic Device Security](https://github.com/qjackson14/basicdevicesecurity)
-
+  - [Day 6 Lab: Analyze Ethernet Switching](https://github.com/qjackson14/analyzingethernetswitching)
 
 <h2>🤳Connect with me:</h2>
 
