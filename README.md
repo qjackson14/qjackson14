@@ -21,6 +21,8 @@
   - [Day 4 Lab: Basic Device Security](https://github.com/qjackson14/basicdevicesecurity)
   - [Day 6 Lab: Analyze Ethernet Switching](https://github.com/qjackson14/analyzingethernetswitching)
   - [Day 8 Lab: Configuring IP Addresses](https://github.com/qjackson14/configuringipaddresses/tree/main)
+  - [Day 9 Lab: Configuring Interfaces](https://github.com/qjackson14/configuringinterfaces)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
