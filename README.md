@@ -24,7 +24,8 @@
   - [Day 9 Lab: Configuring Interfaces](https://github.com/qjackson14/configuringinterfaces)
   - [Day 11 Lab: Configuring Static Routes](https://github.com/qjackson14/configuringstaticroutes)
   - [Day 11 Lab: Troubleshooting Static Routes](https://github.com/qjackson14/troubleshootingstaticroutes)
-  - 
+  - [Day 12 Lab: Life of a Packet MAC Addresses](https://github.com/qjackson14/lifeofapacketmac)
+  - [Day 15 Lab: Subnetting VLSM](https://github.com/qjackson14/subnettingvlsm)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -33,4 +34,4 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/quayshun-jackson-7b5283234/
