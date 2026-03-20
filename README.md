@@ -27,6 +27,7 @@
   - [Day 12 Lab: Life of a Packet MAC Addresses](https://github.com/qjackson14/lifeofapacketmac)
   - [Day 15 Lab: Subnetting VLSM](https://github.com/qjackson14/subnettingvlsm)
   - [Day 16 & 17 Lab: Vlan](https://github.com/qjackson14/vlans)
+  - [Day 20 Lab: Spanning Tree Protocol](https://github.com/qjackson14/stp/blob/main/README.md)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
