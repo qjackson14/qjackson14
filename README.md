@@ -26,7 +26,7 @@
   - [Day 11 Lab: Troubleshooting Static Routes](https://github.com/qjackson14/troubleshootingstaticroutes)
   - [Day 12 Lab: Life of a Packet MAC Addresses](https://github.com/qjackson14/lifeofapacketmac)
   - [Day 15 Lab: Subnetting VLSM](https://github.com/qjackson14/subnettingvlsm)
-  - [Day 16 & 17 Lab: Vlan] (https://github.com/qjackson14/vlans)
+  - [Day 16 & 17 Lab: Vlan](https://github.com/qjackson14/vlans)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
