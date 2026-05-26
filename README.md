@@ -15,7 +15,7 @@
 - <b>Microsoft Windows</b>
   - [Deploying SQL Server in Windows](https://github.com/qjackson14/sqlwindows)
 - <b>CCNA Networking Labs</b>
-  - [Day 1-10 Labs](https://github.com/qjackson14/ccna1through10/tree/main)
+  - [Day 1-10 Labs](https://github.com/qjackson14/ccna1through10)
   - [Day 11-20 Labs](https://github.com/qjackson14/ccna11through20)
  
 <h2>🤳Connect with me:</h2>
