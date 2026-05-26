@@ -16,12 +16,8 @@
   - [Deploying SQL Server in Windows](https://github.com/qjackson14/sqlwindows)
 - <b>CCNA Networking Labs</b>
   - [Day 1-10 Labs](https://github.com/qjackson14/ccna1through10/tree/main)
-  - [Day 11 Lab: Configuring Static Routes](https://github.com/qjackson14/configuringstaticroutes)
-  - [Day 11 Lab: Troubleshooting Static Routes](https://github.com/qjackson14/troubleshootingstaticroutes)
-  - [Day 12 Lab: Life of a Packet MAC Addresses](https://github.com/qjackson14/lifeofapacketmac)
-  - [Day 15 Lab: Subnetting VLSM](https://github.com/qjackson14/subnettingvlsm)
-  - [Day 16 & 17 Lab: Vlan](https://github.com/qjackson14/vlans)
-  - [Day 20 Lab: Spanning Tree Protocol](https://github.com/qjackson14/stp/blob/main/README.md)
+  - [Day 11-20 Labs](https://github.com/qjackson14/ccna11through20)
+ 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
