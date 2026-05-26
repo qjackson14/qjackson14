@@ -17,7 +17,7 @@
 - <b>CCNA Networking Labs</b>
   - [Day 1-10 Labs](https://github.com/qjackson14/ccna1through10)
   - [Day 11-20 Labs](https://github.com/qjackson14/ccna11through20)
- 
+  - [Day 21-30 Labs](https://github.com/qjackson14/ccna21through30)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
