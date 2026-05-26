@@ -15,13 +15,7 @@
 - <b>Microsoft Windows</b>
   - [Deploying SQL Server in Windows](https://github.com/qjackson14/sqlwindows)
 - <b>CCNA Networking Labs</b>
-  - [Day 1 Lab: Network Diagram](https://github.com/qjackson14/networkdiagram)
-  - [Day 2 Lab: Connecting Device](https://github.com/qjackson14/connectingdevices)
-  - [Day 3 Lab: OSI Model](https://github.com/qjackson14/osimodel)
-  - [Day 4 Lab: Basic Device Security](https://github.com/qjackson14/basicdevicesecurity)
-  - [Day 6 Lab: Analyze Ethernet Switching](https://github.com/qjackson14/analyzingethernetswitching)
-  - [Day 8 Lab: Configuring IP Addresses](https://github.com/qjackson14/configuringipaddresses/tree/main)
-  - [Day 9 Lab: Configuring Interfaces](https://github.com/qjackson14/configuringinterfaces)
+  - [Day 1-10 Labs](https://github.com/qjackson14/ccna1through10/tree/main)
   - [Day 11 Lab: Configuring Static Routes](https://github.com/qjackson14/configuringstaticroutes)
   - [Day 11 Lab: Troubleshooting Static Routes](https://github.com/qjackson14/troubleshootingstaticroutes)
   - [Day 12 Lab: Life of a Packet MAC Addresses](https://github.com/qjackson14/lifeofapacketmac)
